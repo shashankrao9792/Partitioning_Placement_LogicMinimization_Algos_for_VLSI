@@ -1,0 +1,18 @@
+UCLA nodes 1.0
+# Created      : Thu May 23 15:26:23 2002
+# User         : sadya@voskhod.eecs.umich.edu (Saurabh N Adya,Not Available,NotAvailable/Freysinger;CR0i;30) 
+# Platform     : Linux 2.4.10 #1 Fri Sep 28 09:29:45 EDT 2001 i686 
+
+NumNodes :             11
+NumTerminals :          3
+        p1           1          1 terminal 
+        p2           1          1 terminal 
+        p3           1          1 terminal 
+        a0          16         16 
+        a1          14         96 
+        a2          15         16 
+        a3          17         16 
+        a4          18         96 
+        a5           9         16 
+        a6           8         16 
+        a7          10         16 

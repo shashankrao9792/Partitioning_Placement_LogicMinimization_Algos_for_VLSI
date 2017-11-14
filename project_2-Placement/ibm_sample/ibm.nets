@@ -1,0 +1,41 @@
+UCLA nets 1.0
+# Created      : Thu May 23 15:26:23 2002
+# User         : sadya@voskhod.eecs.umich.edu (Saurabh N Adya,Not Available,NotAvailable/Freysinger;CR0i;30) 
+# Platform     : Linux 2.4.10 #1 Fri Sep 28 09:29:45 EDT 2001 i686 
+
+NumNets : 14111
+NumPins : 50566
+NetDegree : 2 
+        p1 B 
+        a0 B 
+NetDegree : 2 
+        a1 B 
+        a2 B 
+NetDegree : 2 
+        a3 B 
+        p2 B 
+NetDegree : 3 
+        a4 B 
+        p3 B
+        a5 B
+NetDegree : 4 
+        a6 B 
+        a7 B 
+		a5 B
+		p1 B
+NetDegree : 3 
+        a4 B 
+        a2 B
+        a7 B
+NetDegree : 2 
+        a6 B 
+        p3 B
+NetDegree : 5 
+        a1 B 
+        a3 B
+        a4 B
+		p2 B
+		a7 B
+NetDegree : 2 
+        a1 B 
+        a5 B 
